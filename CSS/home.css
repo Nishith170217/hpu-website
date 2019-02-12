@@ -1,0 +1,100 @@
+.body{
+background-color: #cbf1f5;
+}
+.container{
+height: auto;
+width: 100%;
+}
+.menu{
+background-color: #0f0a3c;
+}
+.slider{
+
+}
+.header1{
+background-color: #0f0a3c;
+}
+.mid{
+height: 600px;
+background:#0f0a3c;
+
+}
+.m1{
+background-color:  #0f0a3c;
+height: 540px;
+float: left;
+clear: right;
+}
+.m2{
+height: 540px;
+
+position: relative;
+float: left;
+clear: right;
+
+}
+.m4{
+height: 540px;
+width: 100%;
+position: relative;
+float: left;
+clear: right;
+background-color: #0f0a3c;
+
+
+}
+.some-row{
+height: 500px;
+width: 100%;
+margin-top: -20px;
+}
+.fusca{
+height: 400px;
+background-color: red;
+width: 100%;
+}
+.event{
+height: 500px;
+width: 278px;
+background-color: #0f0a3c;
+margin-top: 30px;
+line-height: 1.5;
+padding-left: 10px;
+padding-top: 20px;
+
+}
+#footer{
+margin-top: 30px;
+}
+.admision{
+	width: 100%;
+	height: 200px;
+}
+#cards{
+	background-color: #0f0a3c;
+}
+#footer{
+	background-color: #1a0000;
+	color: white;
+}
+.ea{
+	border-bottom: solid;
+	line-height: 1.5;
+	padding-bottom: 10px;
+
+}
+.fitem{
+
+	border-bottom: solid;
+	line-height: 1.5;
+	padding-bottom: 30px;
+	padding-top: 10px;
+	color: white;
+	text-align: center;
+}
+.fitem:hover {
+	background-color: #009f9d;
+}
+.c1{
+	margin-top: 10px;
+}
